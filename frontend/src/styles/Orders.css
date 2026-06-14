@@ -1,0 +1,49 @@
+.order-card {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+}
+
+.orders-container {
+  max-width: 1000px;
+  margin: 30px auto;
+  padding: 20px;
+}
+
+.orders-title {
+  text-align: center;
+  font-size: 42px;
+  margin-bottom: 30px;
+  color: #2563eb;
+}
+
+.order-card {
+  background: white;
+  padding: 25px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.order-card h3 {
+  color: #111827;
+  margin-bottom: 15px;
+}
+
+.order-card p {
+  font-size: 18px;
+  color: #4b5563;
+  margin: 8px 0;
+}
+
+.status {
+  color: orange;
+  font-weight: bold;
+}
+
+.no-orders {
+  text-align: center;
+  color: #6b7280;
+}
